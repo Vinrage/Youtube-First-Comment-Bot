@@ -11,13 +11,13 @@ from oauth2client.tools import argparser, run_flow
 
 # ======== Configure the following variables ===========
 #uploads id
-cid="UUX6OQ3DkcsbYNE6v8uQQuVA"
+cid="UCK9Cv9sxfYZpgr3nYdqIhsA"
 #last video id wMuYiLby3-s
-lastvid="Z9WQy9uEY8M"
+lastvid="Fuc1Pc7176o"
 # waiting time intervel in seconds
-intervel=5
+intervel=1
 #comment you need to post
-comment="Put your text here"
+comment="This video was exactly what I needed today. It's so refreshing to see such positive and uplifting content on YouTube. Thank you for spreading positivity and making my day a little bit brighter!❤️"
 
 CLIENT_SECRETS_FILE = "./client_secrets.json"
 YOUTUBE_READ_WRITE_SSL_SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"
